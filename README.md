@@ -11,3 +11,6 @@ Welcome to the Class Aziz Resources Hub, a collaborative space for students of Y
   - [Hassan EL BAHI's Playlist](https://www.youtube.com/playlist?list=PLZpzLuUp9qXyWylaS9C8Z4uIKWZxQc3Cq)
  
   - [HTML & CSS TUTORIAL (514 pages) {All you might ever need in html and css}](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwtf.tw%2Fref%2Fduckett.pdf&psig=AOvVaw0ml-6pXKdmFT9YWS-NSvY_&ust=1698229382522000&source=images&cd=vfe&opi=89978449&ved=0CBQQ3YkBahcKEwjo4pnMu46CAxUAAAAAHQAAAAAQBA)
+  - 
+
+-https://www.youtube.com/watch?v=p0yrMA2VHg0  ====> How To Create Dynamic Input Fields Creation Using HTML CSS And Vanilla JavaScript
