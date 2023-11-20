@@ -141,6 +141,11 @@ Welcome to the Class Aziz Resources Hub, a collaborative space for students of Y
 
 - https://www.codewars.com/collections/coding-challenges
 
+# -> PHP Ressources :
+### #- PHP The Right Way :
+https://phptherightway.com/
+### #- PHP Apprentice :
+https://phpapprentice.com/
   
 
 Welcome to the Class Aziz Resources Hub, a collaborative space for students of Youcode to share and access valuable resources, including links, books, and other materials that enhance the learning experience.
