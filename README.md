@@ -25,6 +25,8 @@ Welcome to the Class Aziz Resources Hub, a collaborative space for students of Y
  
 
 	-  [ Learn web development("MDN" the must trusted resource about the Web dev)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwtf.tw%2Fref%2Fduckett.pdf&psig=AOvVaw0ml-6pXKdmFT9YWS-NSvY_&ust=1698229382522000&source=images&cd=vfe&opi=89978449&ved=0CBQQ3YkBahcKEwjo4pnMu46CAxUAAAAAHQAAAAAQBA)
+ - **PHP**
+ - [PHP Full Course for non-haters 🐘 (2023)](https://youtu.be/zZ6vybT1HQs?si=29t9W-dmMQv5mnXG)
 -  **Web culture:**
 
 	- [Comprendre le Web (free short course)](https://openclassrooms.com/fr/courses/1946386-comprendre-le-web)
