@@ -150,7 +150,9 @@ https://phptherightway.com/
 https://phpapprentice.com/
 - ### -> PHP User Authentication with MySQL :
 https://phppot.com/php/user-authentication-using-php-and-mysql/
-
+- ### -> PHP User Authentication with MySQL :
+- ### php 
+ https://www.php.net/manual/en/
   
 
 Welcome to the Class Aziz Resources Hub, a collaborative space for students of Youcode to share and access valuable resources, including links, books, and other materials that enhance the learning experience.
