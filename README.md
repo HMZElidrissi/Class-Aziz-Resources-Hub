@@ -155,6 +155,9 @@ https://phpapprentice.com/
 https://phppot.com/php/user-authentication-using-php-and-mysql/
 https://devdocs.io/php/
 
+- ### -> php-exercises :
+https://www.w3resource.com/php-exercises/
+
   
 
 Welcome to the Class Aziz Resources Hub, a collaborative space for students of Youcode to share and access valuable resources, including links, books, and other materials that enhance the learning experience.
