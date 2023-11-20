@@ -154,8 +154,13 @@ https://phpapprentice.com/
 - ### -> PHP User Authentication with MySQL :
 https://phppot.com/php/user-authentication-using-php-and-mysql/
 
+- ### -> PHP User Authentication with MySQL :
+- ### php 
+ https://www.php.net/manual/en/
+
 - ### -> documentation php in mozilla :
 https://developer.mozilla.org/en-US/docs/Glossary/PHP
+
 
 https://devdocs.io/php/
 
