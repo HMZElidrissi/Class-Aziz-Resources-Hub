@@ -30,6 +30,9 @@ Welcome to the Class Aziz Resources Hub, a collaborative space for students of Y
 -  **Web culture:**
 
 	- [Comprendre le Web (free short course)](https://openclassrooms.com/fr/courses/1946386-comprendre-le-web)
+   
+ - ## Connecting to a database ##
+ - https://guides.codepath.com/websecurity/Connecting-to-a-database
 
 -  **Git/Github:**
 	- [MarkDown online editor (to make a README.md files)](https://stackedit.io/)
