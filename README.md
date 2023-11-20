@@ -150,6 +150,7 @@ https://phptherightway.com/
 https://phpapprentice.com/
 - ### -> PHP User Authentication with MySQL :
 https://phppot.com/php/user-authentication-using-php-and-mysql/
+https://devdocs.io/php/
 
   
 
