@@ -9,3 +9,4 @@ Welcome to the Class Aziz Resources Hub, a collaborative space for students of Y
   - [Sarah Gerrard - The Fundamentals of Algorithms](https://blog.sarahgerrard.me/the-fundamentals-of-algorithms)
 
   - [Hassan EL BAHI's Playlist](https://www.youtube.com/playlist?list=PLZpzLuUp9qXyWylaS9C8Z4uIKWZxQc3Cq)
+  - [playlist for learn MYSQLI].(https://youtu.be/BEbKji_pSZM?si=1KjP00HFSHUZ3LWC) 
