@@ -154,6 +154,9 @@ https://phpapprentice.com/
 - ### -> PHP User Authentication with MySQL :
 https://phppot.com/php/user-authentication-using-php-and-mysql/
 
+- ### -> PHP site academy hasoub 
+  --- // https://academy.hsoub.com/learn/php-web-application-development/
+
 - ### -> PHP User Authentication with MySQL :
 - ### php 
  https://www.php.net/manual/en/
