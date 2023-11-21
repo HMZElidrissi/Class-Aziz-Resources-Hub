@@ -30,6 +30,9 @@ Welcome to the Class Aziz Resources Hub, a collaborative space for students of Y
 -  **Web culture:**
 
 	- [Comprendre le Web (free short course)](https://openclassrooms.com/fr/courses/1946386-comprendre-le-web)
+   
+ - ## Connecting to a database ##
+ - https://guides.codepath.com/websecurity/Connecting-to-a-database
 
 -  **Git/Github:**
 	- [MarkDown online editor (to make a README.md files)](https://stackedit.io/)
@@ -150,12 +153,23 @@ https://phptherightway.com/
 https://phpapprentice.com/
 - ### -> PHP User Authentication with MySQL :
 https://phppot.com/php/user-authentication-using-php-and-mysql/
+
 - ### -> PHP site academy hasoub 
   --- // https://academy.hsoub.com/learn/php-web-application-development/
 
-Welcome to the Class Aziz Resources Hub, a collaborative space for students of Youcode to share and access valuable resources, including links, books, and other materials that enhance the learning experience.
+- ### -> PHP User Authentication with MySQL :
+- ### php 
+ https://www.php.net/manual/en/
 
-  
+- ### -> documentation php in mozilla :
+https://developer.mozilla.org/en-US/docs/Glossary/PHP
+
+
+https://devdocs.io/php/
+
+- ### -> php-exercises :
+https://www.w3resource.com/php-exercises/
+
 
 ---
 
