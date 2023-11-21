@@ -170,6 +170,8 @@ https://devdocs.io/php/
 - ### -> php-exercises :
 https://www.w3resource.com/php-exercises/
 
+https://laracasts.com/series/php-for-beginners-2023-edition
+
 - [playlist for learn MYSQLI].(https://youtu.be/BEbKji_pSZM?si=1KjP00HFSHUZ3LWC) 
 
 ---
