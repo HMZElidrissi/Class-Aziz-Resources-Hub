@@ -1,6 +1,6 @@
 # Class Aziz Resources Hub 🌐
 
-Welcome to the Class Aziz Resources Hub, a collaborative space for Youcode students to share and access valuable resources. Here, you'll find links, books, and materials to enhance your learning experience.
+Welcome to the Class Aziz Resources Hub, a collaborative space for YouCode students to share and access valuable resources. Here, you'll find links, books, and materials to enhance your learning experience.
 
 ## Table of Contents
 1. [Programming and Development Resources](#programming-and-development-resources)
